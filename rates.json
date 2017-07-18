@@ -1,0 +1,1 @@
+{ "result": 0, "rates": [ { "order": 1, "name": "USD/RUR", "base": 32.35, "buy": 32.10, "sell": 32.60 }, { "order": 2, "name": "EUR/RUR","base": 42.47, "buy": 42.20, "sell": 42.75 }, { "order": 3, "name": "EUR/USD", "buy": 1.31, "buy": 1.30, "sell": 1.32 } ] }
